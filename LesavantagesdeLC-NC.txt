@@ -1,0 +1,21 @@
+Tout d’abord en éliminant les milliers de lignes de codes, les plateformes LC/NC permettent de concevoir des logiciels plus efficacement et de les déployer plus rapidement.  En effet, avec la programmation traditionnelle, concevoir un logiciel peut prendre entre 1 et 6 mois selon la taille du projet, alors qu’avec un logiciel LC/NC, un logiciel complexe prendra de 2 à 3 fois moins de temps à concevoir, boostant ainsi la productivité d’une entreprise. 
+
+ 
+
+De plus, les organisations préfèrent l’utilisation de ces logiciels puisqu’ils n’ont plus besoin d’embaucher des spécialistes en programmation, qui sont fortement rémunérés, mais des personnes moins qualifiées et donc moins rémunéré. Ces logiciels sont conçus pour une utilisation simplifiée. Cela permet à un individu moins qualifié de pouvoir l’utiliser, ce qui entraine une hausse au niveau de la demande d’emploi de tel ingénieur, ainsi qu’une baisse des rémunérations attribuées à cette emploi. 
+
+ 
+
+Ensuite, ces logiciels facilitent la collaboration entre les équipes de gestion et de l’informatique en permettant à des personnes sans compétences techniques de contribuer au développement des logiciels. Pour la conception d’un logiciel, un développeur ne suffit pas pour effectuer tout le travail. Une équipe se divise les taches, où souvent des membres de cette équipe n’ont pas des compétences informatiques, les limitants ainsi d’exprimer leurs idées. Grace à la simplicité de ces logiciels, tout le personnel pourrai contribuer à la conception d’un logiciel sans être limité par leur manque de compétences. 
+
+ 
+
+En outre, beaucoup de ces plateformes LC/NC, permettent d’entrer du code à la main, négligeant ainsi les limitations du LC/NC. Un inconvénient des logiciels LC/NC est qu’ils sont limités par leur fonctionnalité qui est du code prédéfini. En implémentant l’option d’entrer du code personnalisé, cet inconvénient est négligé. 
+
+ 
+
+Enfin, ces plateformes permettent aux non professionnels de créer des logiciels, même s’ils manquent d’expérience sur ce domaine, élargissant ainsi la communauté et l’accessibilité de l’Ingénierie logicielle. 
+
+ 
+
+ 

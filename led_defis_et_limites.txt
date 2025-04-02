@@ -1,0 +1,19 @@
+Tout d’abord en éliminant les milliers de lignes de codes, les plateformes LC/NC permettent de concevoir des logiciels plus efficacement et de les déployer plus rapidement.  En effet, avec la programmation traditionnelle, concevoir un logiciel peut prendre entre 1 et 6 mois selon la taille du projet, alors qu’avec un logiciel LC/NC, un logiciel complexe prendra de 2 à 3 fois moins de temps à concevoir, boostant ainsi la productivité d’une entreprise. 
+
+ 
+
+De plus, les organisations préfèrent l’utilisation de ces logiciels puisqu’ils n’ont plus besoin d’embaucher des spécialistes en programmation, qui sont fortement rémunérés, mais des personnes moins qualifiées et donc moins rémunéré. Ces logiciels sont conçus pour une utilisation simplifiée. Cela permet à un individu moins qualifié de pouvoir l’utiliser, ce qui entraine une hausse au niveau de la demande d’emploi de tel ingénieur, ainsi qu’une baisse des rémunérations attribuées à cette emploi. 
+
+ 
+
+Pour commencer, il est possible que quelques logiciels complexes, qui nécessitent de profondes modifications techniques, ne soit pas prise en charge par les plateformes LC/NC. Ces plateformes admettent des limites sur leur capacité de créer des logiciels complexes puisqu’elles offrent des blocs préconçus qui peuvent ne pas permettre des personnalisations avancées. 
+
+ 
+
+D’ailleurs, les plateformes LC/NC dépendent de services tiers, entrainant des problèmes de sécurité et de conformité. En effet, cette dépendance limite le contrôle sur la gestion de données, ce qui entraine moins de contrôle sur la localisation des données et un risque de fuite de données si la plateforme subit une cyberattaque. D’autre part, certaines industries nécessitent des normes strictes que toutes les plateformes no-code ne respectent pas. 
+
+ 
+
+Enfin, différentes plateformes LC/NC ont une interface et des fonctionnalités différentes, ce qui peut rendre difficiles le changement de logiciels pour les utilisateurs. 
+
+Ce qui veut dire que, les utilisateurs doivent réapprendre l’interface et les workflows, et donc la productivité peut baisser pendant la période d’adaptation. Mais aussi, un risque de perte de données ou de conversion complexe. Souvent, il est nécessaire d’exporter et importer manuellement ces données pour éviter ces pertes.  
