@@ -1,0 +1,5 @@
+Les plateformes Low-Code permettent un environnement de développement visuel avec ce qu’on appelle ‘drag-and-drop’ soit glisser-déposer, des modèles préconstruits, et très peu de programmation écrit à la main. Ces plateformes nécessitent un minimum de compétences sur la programmation mais réduisent fortement la complexité du développement traditionnel. 
+
+ 
+
+Les plateformes No-Code permettent aux utilisateurs de construire des applications entièrement à partir d’interfaces visuelles, nécessitant aucune expérience de programmation. Ces plateformes répondent principalement aux besoins d’entreprises ainsi que des amateurs qui veulent créer des applications simples. 
